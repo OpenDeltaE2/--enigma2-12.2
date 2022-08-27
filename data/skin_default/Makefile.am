@@ -51,7 +51,6 @@ dist_install_DATA = \
 	rc0.png \
 	rc1.png \
 	rc2.png \
-	screensaverpicture.png \
 	skin.xml \
 	sleeptimer.png \
 	testscreen.png \
